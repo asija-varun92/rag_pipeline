@@ -1,0 +1,24 @@
+Machine Learning Introduction
+
+Machine learning is a branch of artificial intelligence (AI) that enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every task.
+
+Main Types of Machine Learning:
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement Learning
+
+Common Applications:
+- Image recognition
+- Natural language processing
+- Recommendation systems
+- Fraud detection
+- Predictive analytics
+
+Popular Python libraries for machine learning include:
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow
+- PyTorch
+
+Machine learning is transforming industries by enabling intelligent, data-driven solutions.
